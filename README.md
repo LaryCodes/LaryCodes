@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Muhammad Laraib<br>🚀 Next.js Developer | Python Enthusiast | Frontend Specialist  <br><br>🔹 Frontend Expertise: Next.js, React, HTML, CSS, JavaScript, TypeScript  <br>🔹 Backend & AI: Python, java, Flask, javaFx,firebase, (exploring Agentic AI)  <br>🔹 Other Skills: API Development, UI/UX, Git, Deployment  <br><br>💡 Passionate about building modern web apps, optimizing performance, and integrating AI into real-world solutions. Always open to collaboration and learning new tech!  
+👋 Hi, I'm Muhammad Laraib<br>🚀 Next.js Developer | Python Enthusiast | Frontend Specialist  <br><br>🔹 Frontend Expertise: Next.js, React, HTML, CSS, JavaScript, TypeScript  <br>🔹 Backend & AI: Python, java, Flask, javaFx, Firebase, (exploring Agentic AI)  <br>🔹 Other Skills: API Development, Chatbot development, UI/UX, Git, Deployment  <br><br>💡 Passionate about building modern web apps, optimizing performance, and integrating AI into real-world solutions. Always open to collaboration and learning new tech!  
 
 
 ## 🌐 Socials:
