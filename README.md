@@ -2,7 +2,7 @@
 
 **Full-Stack Developer · Agentic AI Engineer · Project Manager**
 
-I build production-grade software — from multi-agent AI systems and computer vision platforms to full-stack SaaS products. Currently studying Software Engineering at SSUET and Agentic AI at GIAIC, Karachi.
+I build production-grade software, from multi-agent AI systems and computer vision platforms to full-stack SaaS products. Currently pursuing Software Engineering and Agentic AI Engineering, with a focus on intelligent automation and scalable full-stack development.
 
 🌐 **Portfolio:** [larycodes.vercel.app](https://larycodes.vercel.app) &nbsp;|&nbsp; 📩 **Email:** larycodes@gmail.com &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/larycodes](https://linkedin.com/in/larycodes)
 
@@ -10,6 +10,7 @@ I build production-grade software — from multi-agent AI systems and computer v
 
 ## 🏆 Recognition
 
+- 🥇 **1st Position** — University Exhibition, Fall 2024 *(InterviewXpert)*
 - 🥇 **1st Position** — University Exhibition, Spring 2025 *(Intruviate)*
 - 🏅 **Top 10 Finalist** — NIC Karachi Competition *(DaantShaant)*
 - 🎯 **Selected** — University Exhibition, Fall 2026 *(Credora)*
@@ -110,15 +111,15 @@ I build production-grade software — from multi-agent AI systems and computer v
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larycodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larycodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larycodes&theme=dark&hide_border=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larycodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larycodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=larycodes&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -130,16 +131,11 @@ I build production-grade software — from multi-agent AI systems and computer v
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/larycodes"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://larycodes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:larycodes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://instagram.com/lary.codes"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=larycodes&icon=0&color=0"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/larycodes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://larycodes.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larycodes@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lary.codes)
+
+</div>
